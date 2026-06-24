@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Verilog/20260203/Ex02/modelsim
+vled_sw_top
+Z0 !s110 1782179249
+!i10b 1
+!s100 fV3Y2fYO_cnKKbjScBYo;3
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+I=gP2kc[5kL?U;jBXJeQhW2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/kccistc/Downloads/inha/tuesday/ex01_ledsw/modelsim
+w1782176178
+8C:/Users/kccistc/Downloads/inha/tuesday/ex01_ledsw/rtl/lew_sw.v
+FC:/Users/kccistc/Downloads/inha/tuesday/ex01_ledsw/rtl/lew_sw.v
+!i122 10
+L0 3 8
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1782179249.000000
+!s107 C:/Users/kccistc/Downloads/inha/tuesday/ex01_ledsw/rtl/lew_sw.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/kccistc/Downloads/inha/tuesday/ex01_ledsw/rtl/lew_sw.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb_led_sw_top
+R0
+R1
+r1
+!s85 0
+!i10b 1
+!s100 BWKQ<<h8N_6zf[Y;51>UH2
+IDXcojAzfURaHi8g;6E6D?3
+R2
+Z7 w1782179243
+Z8 8C:/Users/kccistc/Downloads/inha/tuesday/ex01_ledsw/tb/tb_led_sw.v
+Z9 FC:/Users/kccistc/Downloads/inha/tuesday/ex01_ledsw/tb/tb_led_sw.v
+!i122 11
+Z10 L0 3 26
+R3
+31
+R4
+Z11 !s107 C:/Users/kccistc/Downloads/inha/tuesday/ex01_ledsw/tb/tb_led_sw.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/kccistc/Downloads/inha/tuesday/ex01_ledsw/tb/tb_led_sw.v|
+!i113 1
+R5
+R6
+Xtb_led_sw_v_unit
+DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+R0
+VanCcT]a:8oRB6J53B_XP:0
+r1
+!s85 0
+!i10b 1
+!s100 hK1O6U2<f5>;i;m6cmRV;3
+IanCcT]a:8oRB6J53B_XP:0
+!i103 1
+S1
+R2
+R7
+R8
+R9
+!i122 11
+L0 1 0
+R3
+31
+R4
+R11
+R12
+!i113 1
+R5
+R6
+vtb_les_sw_top
+!s110 1782178932
+R1
+r1
+!s85 0
+!i10b 1
+!s100 d?V6:koKAIWNThL>3CTcD0
+ICX6H1mCC]@Q0USEZAGY3G3
+R2
+w1782178927
+R8
+R9
+!i122 7
+R10
+R3
+31
+!s108 1782178932.000000
+R11
+R12
+!i113 1
+R5
+R6

@@ -1,0 +1,18 @@
+C:/Users/kccistc/Downloads/inha/tuesday/ex01_ledsw/rtl/lew_sw.v {1 {vlog -work work -stats=none C:/Users/kccistc/Downloads/inha/tuesday/ex01_ledsw/rtl/lew_sw.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module led_sw_top
+
+Top level modules:
+	led_sw_top
+
+} {} {}} C:/Users/kccistc/Downloads/inha/tuesday/ex01_ledsw/tb/tb_led_sw.v {2 {vlog -work work -stats=none C:/Users/kccistc/Downloads/inha/tuesday/ex01_ledsw/tb/tb_led_sw.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+** Warning: C:/Users/kccistc/Downloads/inha/tuesday/ex01_ledsw/tb/tb_led_sw.v(1): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:/Users/kccistc/Downloads/inha/tuesday/ex01_ledsw/tb/tb_led_sw.v(28): (vlog-2284) Empty $unit scope found.
+-- Compiling package tb_led_sw_v_unit
+-- Compiling module tb_led_sw_top
+
+Top level modules:
+	tb_led_sw_top
+
+} {} {}}

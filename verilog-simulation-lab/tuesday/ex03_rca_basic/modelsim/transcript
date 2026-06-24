@@ -1,0 +1,23 @@
+# Compile of rca_basic.v was successful.
+# Compile of tb_rca_basic.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_rca_top
+# vsim work.tb_rca_top 
+# Start time: 20:03:57 on Jun 22,2026
+# Loading work.tb_rca_top
+# Loading work.rca_top
+# Loading work.ripple_carry_adder_4bit
+# Loading work.full_adder
+add wave -position end  sim:/tb_rca_top/sw
+add wave -position end  sim:/tb_rca_top/led
+add wave -position end  sim:/tb_rca_top/uut/A
+add wave -position end  sim:/tb_rca_top/uut/B
+add wave -position end  sim:/tb_rca_top/uut/Cin
+add wave -position end  sim:/tb_rca_top/uut/Sum
+add wave -position end  sim:/tb_rca_top/uut/Cout
+run -all
+# ** Note: $stop    : D:/verilog/inha/day01/ex03_rca_basic/tb/tb_rca_basic.v(66)
+#    Time: 90 ns  Iteration: 0  Instance: /tb_rca_top
+# Break in Module tb_rca_top at D:/verilog/inha/day01/ex03_rca_basic/tb/tb_rca_basic.v line 66
+# End time: 20:06:20 on Jun 22,2026, Elapsed time: 0:02:23
+# Errors: 0, Warnings: 6

@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/verilog/inha/day01/ex01_ledsw/modelsim
+vlogic_sw_led_top
+Z0 !s110 1782194051
+!i10b 1
+!s100 Ei:P;NC1gQcz2m2fdj>[k0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I>9KJdS>51W3J^S3`U5cC73
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/kccistc/Downloads/inha/tuesday/ex02_ledswlogic/modelsim
+Z4 w1782173503
+8C:/Users/kccistc/Downloads/inha/tuesday/ex02_ledswlogic/rtl/led_sw_logic.v
+FC:/Users/kccistc/Downloads/inha/tuesday/ex02_ledswlogic/rtl/led_sw_logic.v
+!i122 2
+L0 3 24
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1782194051.000000
+!s107 C:/Users/kccistc/Downloads/inha/tuesday/ex02_ledswlogic/rtl/led_sw_logic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/kccistc/Downloads/inha/tuesday/ex02_ledswlogic/rtl/led_sw_logic.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vtb_logic_sw_led_top
+R0
+!i10b 1
+!s100 c;^0GnA@K05m;O1kcSH3H1
+R1
+I2FdDWf7Y?lRZRLa3?9JQj0
+R2
+R3
+R4
+8C:/Users/kccistc/Downloads/inha/tuesday/ex02_ledswlogic/tb/tb_led_sw_logic.v
+FC:/Users/kccistc/Downloads/inha/tuesday/ex02_ledswlogic/tb/tb_led_sw_logic.v
+!i122 3
+L0 3 49
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/kccistc/Downloads/inha/tuesday/ex02_ledswlogic/tb/tb_led_sw_logic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/kccistc/Downloads/inha/tuesday/ex02_ledswlogic/tb/tb_led_sw_logic.v|
+!i113 1
+R7
+R8

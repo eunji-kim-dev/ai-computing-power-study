@@ -1,0 +1,15 @@
+D:/verilog/inha/day01/ex02_ledswlogic/tb/tb_led_sw_logic.v {1 {vlog -work work -stats=none D:/verilog/inha/day01/ex02_ledswlogic/tb/tb_led_sw_logic.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_logic_sw_led_top
+
+Top level modules:
+	tb_logic_sw_led_top
+
+} {} {}} D:/verilog/inha/day01/ex02_ledswlogic/rtl/led_sw_logic.v {1 {vlog -work work -stats=none D:/verilog/inha/day01/ex02_ledswlogic/rtl/led_sw_logic.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module logic_sw_led_top
+
+Top level modules:
+	logic_sw_led_top
+
+} {} {}}

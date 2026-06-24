@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Jun 23 15:40:17 2026
+# Process ID: 8096
+# Current directory: C:/Users/kccistc/Downloads/inha/tuesday/ex01_ledsw/vivado/project_1.runs/impl_1
+# Command line: vivado.exe -log logic_sw_led_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source logic_sw_led_top.tcl -notrace
+# Log file: C:/Users/kccistc/Downloads/inha/tuesday/ex01_ledsw/vivado/project_1.runs/impl_1/logic_sw_led_top.vdi
+# Journal file: C:/Users/kccistc/Downloads/inha/tuesday/ex01_ledsw/vivado/project_1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source logic_sw_led_top.tcl -notrace

@@ -1,0 +1,17 @@
+D:/verilog/inha/day01/ex03_rca_basic/rtl/rca_basic.v {1 {vlog -work work -stats=none D:/verilog/inha/day01/ex03_rca_basic/rtl/rca_basic.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module full_adder
+-- Compiling module ripple_carry_adder_4bit
+-- Compiling module rca_top
+
+Top level modules:
+	rca_top
+
+} {} {}} D:/verilog/inha/day01/ex03_rca_basic/tb/tb_rca_basic.v {1 {vlog -work work -stats=none D:/verilog/inha/day01/ex03_rca_basic/tb/tb_rca_basic.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_rca_top
+
+Top level modules:
+	tb_rca_top
+
+} {} {}}

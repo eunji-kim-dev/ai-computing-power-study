@@ -1,0 +1,16 @@
+# Compile of led_sw_logic.v was successful.
+# Compile of tb_led_sw_logic.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_logic_sw_led_top
+# vsim work.tb_logic_sw_led_top 
+# Start time: 15:00:20 on Jun 23,2026
+# Loading work.tb_logic_sw_led_top
+# Loading work.logic_sw_led_top
+add wave -position end  sim:/tb_logic_sw_led_top/sw
+add wave -position end  sim:/tb_logic_sw_led_top/led
+run -all
+# ** Note: $stop    : C:/Users/kccistc/Downloads/inha/tuesday/ex02_ledswlogic/tb/tb_led_sw_logic.v(48)
+#    Time: 70 ns  Iteration: 0  Instance: /tb_logic_sw_led_top
+# Break in Module tb_logic_sw_led_top at C:/Users/kccistc/Downloads/inha/tuesday/ex02_ledswlogic/tb/tb_led_sw_logic.v line 48
+# End time: 08:56:14 on Jun 24,2026, Elapsed time: 17:55:54
+# Errors: 0, Warnings: 6
