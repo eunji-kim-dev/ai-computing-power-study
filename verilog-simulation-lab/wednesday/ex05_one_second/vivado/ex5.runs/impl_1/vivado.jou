@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Jun 24 15:26:46 2026
+# Process ID: 12100
+# Current directory: C:/Users/kccistc/Downloads/inha/wednesday/ex05_one_second/vivado/ex5.runs/impl_1
+# Command line: vivado.exe -log one_led.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source one_led.tcl -notrace
+# Log file: C:/Users/kccistc/Downloads/inha/wednesday/ex05_one_second/vivado/ex5.runs/impl_1/one_led.vdi
+# Journal file: C:/Users/kccistc/Downloads/inha/wednesday/ex05_one_second/vivado/ex5.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source one_led.tcl -notrace

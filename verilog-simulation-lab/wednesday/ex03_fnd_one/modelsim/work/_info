@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/verilog/20260204/fnd_one/modelsim
+vfnd_one
+Z1 !s110 1770212470
+!i10b 1
+!s100 K<LY`9?8=aGSz4=NJN^H;2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I2c[HH8LY=<mR];elL3:]41
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1770212275
+8../rtl/fnd_one.v
+F../rtl/fnd_one.v
+!i122 1
+L0 3 57
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1770212470.000000
+!s107 ../tb/tb_fnd_one.v|../rtl/fnd_one.v|
+Z6 !s90 -reportprogress|300|-f|rtl_list|
+!i113 1
+Z7 tCvgOpt 0
+vtb_fnd_one
+R1
+!i10b 1
+!s100 <j`0>]QM?RkjU0hOEgQ2N3
+R2
+Ii4nP0Ee8@EP:;YUVdM@TB0
+R3
+R0
+w1770212364
+8../tb/tb_fnd_one.v
+F../tb/tb_fnd_one.v
+!i122 1
+L0 3 22
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 ../tb/tb_fnd_one.v|../rtl/fnd_one.v|
+R6
+!i113 1
+R7

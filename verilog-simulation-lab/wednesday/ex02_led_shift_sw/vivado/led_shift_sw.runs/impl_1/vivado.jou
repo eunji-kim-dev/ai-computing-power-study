@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Mon Jun 22 20:33:39 2026
+# Process ID         : 16808
+# Current directory  : D:/verilog/inha/day03/ex02_led_shift_sw/vivado/led_shift_sw.runs/impl_1
+# Command line       : vivado.exe -log led_shift_sw.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source led_shift_sw.tcl -notrace
+# Log file           : D:/verilog/inha/day03/ex02_led_shift_sw/vivado/led_shift_sw.runs/impl_1/led_shift_sw.vdi
+# Journal file       : D:/verilog/inha/day03/ex02_led_shift_sw/vivado/led_shift_sw.runs/impl_1\vivado.jou
+# Running On         : PC-Home
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 22621
+# Processor Detail   : Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+# CPU Frequency      : 3192 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 17128 MB
+# Swap memory        : 6442 MB
+# Total Virtual      : 23570 MB
+# Available Virtual  : 6886 MB
+#-----------------------------------------------------------
+source led_shift_sw.tcl -notrace

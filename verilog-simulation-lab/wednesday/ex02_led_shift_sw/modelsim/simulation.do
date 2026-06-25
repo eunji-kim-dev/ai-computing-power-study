@@ -1,0 +1,1 @@
+vsim -voptargs=+acc work.tb_led_shift
