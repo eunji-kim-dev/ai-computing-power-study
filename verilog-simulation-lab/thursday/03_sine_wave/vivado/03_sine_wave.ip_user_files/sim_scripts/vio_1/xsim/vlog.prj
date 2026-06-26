@@ -1,0 +1,7 @@
+verilog xil_defaultlib --include "../../../../03_sine_wave.gen/sources_1/ip/vio_1/hdl/verilog" --include "../../../../03_sine_wave.gen/sources_1/ip/vio_1/hdl" \
+"../../../../03_sine_wave.gen/sources_1/ip/vio_1/sim/vio_1.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

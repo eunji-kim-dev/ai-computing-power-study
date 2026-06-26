@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Jun 25 15:07:10 2026
+# Process ID: 4640
+# Current directory: C:/Users/kccistc/Downloads/inha/wednesday/ec06_Ultrasonic/vivado/ex06.runs/vio_0_synth_1
+# Command line: vivado.exe -log vio_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source vio_0.tcl
+# Log file: C:/Users/kccistc/Downloads/inha/wednesday/ec06_Ultrasonic/vivado/ex06.runs/vio_0_synth_1/vio_0.vds
+# Journal file: C:/Users/kccistc/Downloads/inha/wednesday/ec06_Ultrasonic/vivado/ex06.runs/vio_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source vio_0.tcl -notrace

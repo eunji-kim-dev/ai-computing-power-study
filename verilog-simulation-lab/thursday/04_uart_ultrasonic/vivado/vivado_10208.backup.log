@@ -1,0 +1,39 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Jun 25 14:31:35 2026
+# Process ID: 10208
+# Current directory: C:/Users/kccistc/Downloads/inha/thursday/04_uart_ultrasonic/vivado
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8716 C:\Users\kccistc\Downloads\inha\thursday\04_uart_ultrasonic\vivado\ex04.xpr
+# Log file: C:/Users/kccistc/Downloads/inha/thursday/04_uart_ultrasonic/vivado/vivado.log
+# Journal file: C:/Users/kccistc/Downloads/inha/thursday/04_uart_ultrasonic/vivado\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/kccistc/Downloads/inha/thursday/04_uart_ultrasonic/vivado/ex04.xpr
+INFO: [Project 1-313] Project file moved from 'D:/verilog/20260103/04_uart_ultrasonic/vivado' since last save.
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorVersionXsim
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorVersionModelSim
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorVersionQuesta
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorVersionXcelium
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorVersionVCS
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorVersionRiviera
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorVersionActiveHdl
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorGccVersionXsim
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorGccVersionModelSim
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorGccVersionQuesta
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorGccVersionXcelium
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorGccVersionVCS
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorGccVersionRiviera
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorGccVersionActiveHdl
+WARNING: [filemgmt 56-3] Board Part Repository Path: Could not find the directory 'C:/Users/radar/AppData/Roaming/Xilinx/Vivado/2024.2/xhub/board_store/xilinx_board_store'.
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name EnableResourceEstimation
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimCompileState
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name UseInlineHdlIP
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name LocalIPRepoLeafDirName
+ERROR: [Project 1-208] No val for DA Elab Attr
+ERROR: [Project 1-208] No val for DA Elab Attr
+ERROR: [Project 1-208] No val for DA Elab Attr
+ERROR: [Runs 36-378] The checkpoint 'C:/Users/kccistc/Downloads/inha/thursday/04_uart_ultrasonic/vivado/ex04.srcs/utils_1/imports/synth_1/ex04.dcp' was created with 'Vivado v2024.2 (64-bit)', and cannot be opened in this version.
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Jun 25 14:32:03 2026...

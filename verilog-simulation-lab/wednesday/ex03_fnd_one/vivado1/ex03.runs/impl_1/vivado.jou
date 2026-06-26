@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Jun 25 13:35:11 2026
+# Process ID: 10620
+# Current directory: C:/Users/kccistc/Downloads/inha/wednesday/ex03_fnd_one/vivado1/ex03.runs/impl_1
+# Command line: vivado.exe -log fnd_dynammic.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source fnd_dynammic.tcl -notrace
+# Log file: C:/Users/kccistc/Downloads/inha/wednesday/ex03_fnd_one/vivado1/ex03.runs/impl_1/fnd_dynammic.vdi
+# Journal file: C:/Users/kccistc/Downloads/inha/wednesday/ex03_fnd_one/vivado1/ex03.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source fnd_dynammic.tcl -notrace

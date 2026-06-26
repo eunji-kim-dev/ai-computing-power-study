@@ -1,0 +1,2 @@
+vio_1.v,verilog,xil_defaultlib,../../../../03_sine_wave.gen/sources_1/ip/vio_1/sim/vio_1.v,incdir="../../../../03_sine_wave.gen/sources_1/ip/vio_1/hdl/verilog"incdir="../../../../03_sine_wave.gen/sources_1/ip/vio_1/hdl"
+glbl.v,Verilog,xil_defaultlib,glbl.v
